@@ -17,21 +17,21 @@ const myData = [
     image: IMG1,
     name: "Akshay Shakhia",
     review:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "His efficient way of working, finding a quick and robust solution to any problem, approaching a problem in a novelty way and blending different technologies for innovative and affordable ideas, leading and mentoring geographically spread and multicultural teams in a smooth way are few of the qualities that I have seen in him every day.",
   },
   {
     key: 2,
     image: IMG2,
-    name: "Anupama Gupta",
+    name: "Rupesh Jogani",
     review:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "You can rely on Nivid all the time to get things done. He always keeps the zeal to learn the unknowns and dig deeper into incidents. He is hard working, always gives feedback, great listener. One thing that amazes me every time about saumya is his level of patience, attitude and cool he keeps at times under extreme pressure.",
   },
   {
     key: 3,
     image: IMG3,
-    name: "Darshil Jogani",
+    name: "Aditya Vasavada",
     review:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "Nivid was super helpful with everything, and he really guided me towards what's most important to study for the final, so I can focus on some topics and perform better.",
   },
 ];
 

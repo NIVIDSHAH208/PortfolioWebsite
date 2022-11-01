@@ -90,3 +90,28 @@
 .qualification__button.qualification__active {
   color: var(--color-primary);
 }
+
+
+@media screen and (max-width: 1024px) {
+  .qualification__sections{
+    display: grid;
+    grid-template-columns: .7fr;
+    justify-content: center;
+}
+}
+
+@media screen and (max-width: 600px) {
+  .qualification__data{
+    grid-template-columns: 1fr max-content 1fr;
+}
+
+.qualification__tabs{
+    justify-content: center;
+}
+.qualification__button{
+    margin: 0 var(--mb-1);
+}
+.qualification__sections{
+    grid-template-columns: 1fr;
+}
+}
